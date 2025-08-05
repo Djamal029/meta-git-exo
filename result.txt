@@ -1,1 +1,1 @@
-Editing this txt file in order to manage conflicts from different branches
+yes
